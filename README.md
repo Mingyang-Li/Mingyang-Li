@@ -6,4 +6,4 @@
 - 📫 Hobbies & Interests: ["🏊Ocean swimming", "💪Calisthenics", "✈️Aviation", "💼Entrepreneurship"]
 - 👶 Wrote my first line of HTML/CSS in: "July 2019"
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mingyang-Li" />
