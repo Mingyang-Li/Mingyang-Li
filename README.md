@@ -6,5 +6,6 @@
 - 📫 Hobbies & Interests: ["🏊Ocean swimming", "💪Calisthenics", "✈️Aviation", "💼Entrepreneurship"]
 - 👶 Wrote my first line of HTML/CSS in: "July 2019"
 
-(https://github-readme-stats.vercel.app/api?username=Mingyang-Li)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mingyang-Li&show_icons=true)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mingyang-Li" />
