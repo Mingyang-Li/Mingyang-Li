@@ -7,6 +7,5 @@
 - 👶 Wrote my first line of HTML/CSS in: "July 2019"
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mingyang-Li&show_icons=true)
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mingyang-Li" />
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mingyang-Li&show_icons=true&card_width=100%)
+
