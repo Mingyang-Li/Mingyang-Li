@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 Who am I: ["IT Intern", "IT Management Student", "Aspiring Solution Architect"]
+- 🔭 Who am I: ["Intern", "Student", "Aspiring Solution Architect"]
 - 🌱 Languages I speak: ["Python", "JavaScript", "Shopify Liquid"]
 - 👯 Currently learning: ["React.js", "Material-UI", "GraphQL & REST APIs", "Firebase", "Express.js", "Salesforce Apex & SOQL"]
 - 📫 Hobbies & Interests: ["🏊Ocean swimming", "💼Entrepreneurship", "✈️Aviation", "💪Calisthenics"]
