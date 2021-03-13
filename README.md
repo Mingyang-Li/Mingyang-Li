@@ -2,7 +2,7 @@
 
 - 🔭 Who am I: ["Intern", "Student", "Aspiring Solution Architect"]
 - 🌱 Languages I speak: ["Python", "JavaScript", "Shopify Liquid"]
-- 👯 Currently learning: ["React.js", "Material-UI", "GraphQL & REST APIs", "Firebase", "Express.js", "Salesforce Apex & SOQL"]
+- 👯 Currently learning: ["React.js", "Material-UI", "Redux", "GraphQL & REST APIs", "Express.js", "Salesforce Apex & SOQL"]
 - 📫 Hobbies & Interests: ["🏊Ocean swimming", "💼Entrepreneurship", "✈️Aviation", "💪Calisthenics"]
 - 👶 Wrote my first line of HTML/CSS in: "July 2019"
 
