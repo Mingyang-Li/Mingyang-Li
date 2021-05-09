@@ -2,7 +2,7 @@
 
 - 🔭 Who am I: ["Student", "Aspiring Solution Architect", "Engineer in-dev"]
 - 🌱 Languages I speak: ["Python", "JavaScript", "Shopify Liquid"]
-- 👯 Currently learning: ["React.js", "Material-UI", "Redux", "GraphQL & REST APIs", "Express.js", "SQL & RDBMS"]
+- 👯 Currently learning: ["React.js", "Redux", "GraphQL & REST APIs", "Node.js", "SQL & RDBMS", "DevOps"]
 - 📫 Hobbies & Interests: ["🏊Ocean swimming", "✈️Aviation", "💪Calisthenics"]
 
 
