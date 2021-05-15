@@ -1,8 +1,9 @@
 ### Hello there 👋
 
 - 🔭 Who am I: ["Student", "Aspiring Solution Architect", "Engineer in-dev"]
-- 🌱 Languages I speak: ["Python", "JavaScript", "Shopify Liquid"]
-- 👯 Currently learning: ["React.js", "Redux", "GraphQL & REST APIs", "Node.js", "SQL & RDBMS", "DevOps"]
+- 🌱 Languages I speak: ["JavaScript", "TypeScript (Beginner)", "Python", "SQL"]
+- 🔨 Preferred Tech Stack: ["React.js", "Node.js", "PostgreSQL"]
+- 👯 Currently learning: ["OAuth & JWT", "Redux", "Apollo (GraphQL)", " Prisma.js (TS ORM)"]
 - 💡 Areas of Interest: ["Blockchain", "Fintech", "Project Management", "Personal Finance", "Data Visualisation"]
 - 📫 Hobbies & Interests: ["🏊Ocean swimming", "✈️Aviation", "💪Calisthenics"]
 
