@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🔭 Who am I: ["Student", "Aspiring Solution Architect", "Engineer in-dev"]
-- 🤝 I'm open to: ["Collaborate". "Connect", "Drinking, haha"]
+- 🤝 I'm open to: ["Collaborate", "Connect", "Drinking!?"]
 - 🌱 Languages I speak: ["JavaScript", "TypeScript (Beginner)", "Python", "SQL"]
 - 🔨 Preferred Tech Stack: ["React.js", "Node.js", "PostgreSQL"]
 - 📚 Currently learning: ["OAuth & JWT", "Redux", "REST API Development", " Prisma.js (TS ORM)", "Apollo (GraphQL)"]
