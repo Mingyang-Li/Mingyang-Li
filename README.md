@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 Who am I: ["Student", "Aspiring Solution Architect", "Engineer in-dev"]
+- 🔭 Who am I: ["CS Student", "I code to live, but not without a bit of passion"]
 - 🤝 I'm open to: ["Collaborate", "Connect", "Drinking!?"]
 - 🌱 Languages I speak: ["TypeScript", "JavaScript", "Python", "SQL"]
 - 🔨 Main Tech Stack: ["React.js", "Node.js", "PostgreSQL"]
