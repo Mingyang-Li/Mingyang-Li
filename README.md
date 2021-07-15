@@ -9,4 +9,5 @@
 - 📫 Hobbies: ["🏊Ocean swimming", "✈️Aviation", "💪Calisthenics"]
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mingyang-Li&theme=tokyonight&show_icons=true&card_width=100%)
+![Mingyang's github stats](https://github-readme-stats.vercel.app/api?username=Mingyang-Li&theme=tokyonight&show_icons=true&card_width=100%)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mingyang-Li&langs_count=6&theme=tokyonightshow_icons=true&card_width=100%)]()
