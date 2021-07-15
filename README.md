@@ -11,4 +11,4 @@
 
 ![Mingyang's github stats](https://github-readme-stats.vercel.app/api?username=Mingyang-Li&theme=tokyonight&show_icons=true&card_width=100%)
 <br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mingyang-Li&langs_count=6&theme=tokyonightshow_icons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mingyang-Li&langs_count=6&theme=tokyonight)
