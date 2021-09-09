@@ -9,7 +9,3 @@
 - 📫 Hobbies: ["🏊Ocean swimming", "✈️Aviation", "💪Calisthenics"]
 
 [![Mingyang's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mingyang-Li)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br>
-![Mingyang's github stats](https://github-readme-stats.vercel.app/api?username=Mingyang-Li&theme=tokyonight&show_icons=true&card_width=100%)
-<br>
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mingyang-Li&langs_count=6&theme=tokyonight)
