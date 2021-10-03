@@ -3,7 +3,7 @@
 - 🔭 Who am I ["CS Student", "I code to live, but not without a bit of passion"]
 - 🤝 I'm open to: ["Collaborate", "Connect", "Drinking!?"]
 - 🌱 Languages I speak: ["TypeScript", "JavaScript", "Python", "SQL"]
-- 🔨 Focus: ["TypeScript", "React.js", "Node.js", "PostgreSQL"]
+- 🔨 Stack: ["TypeScript", "ReactJS", "NodeJS", "PostgreSQL"]
 - 📚 Learning: ["Redux", "NestJS", "Prisma ORM", "GraphQL", "AWS DevOps"]
 - 🤔 Interests: ["Blockchain", "Fintech", "Salesforce", "Data Visualisation"]
 - 📫 Hobbies: ["🏊Ocean swimming", "✈️Aviation", "💪Calisthenics"]
