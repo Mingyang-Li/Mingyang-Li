@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 Who am I ["CS Student", "I code to live, but not without a bit of passion"]
+- 🔭 Who am I ["I build things"]
 - 🤝 I'm open to: ["Collaborate", "Connect", "Drinking!?"]
 - 🌱 Languages I speak: ["TypeScript", "JavaScript", "Python", "SQL"]
 - 🔨 Stack: ["TypeScript", "ReactJS", "NodeJS", "PostgreSQL"]
