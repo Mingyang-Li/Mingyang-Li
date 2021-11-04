@@ -3,7 +3,7 @@
 - 🔭 Who am I ["I build things"]
 - 🤝 I'm open to: ["Collaborate", "Connect", "Drinking!?"]
 - 🌱 Languages I speak: ["TypeScript", "JavaScript", "Python", "SQL"]
-- 🔨 Stack: ["ReactJS", "NestJS (node)", "GraphQL & REST", "PostgreSQL"]
+- 🔨 Stack: ["React", "Redux", "NestJS (node)", "GraphQL & REST", "PostgreSQL"]
 - 📚 Learning: ["Good API design, "TailwindCSS", "Prisma ORM", "AWS DevOps"]
 - 🤔 Interests: ["Blockchain", "Fintech", "Salesforce", "Data Visualisation"]
 - 📫 Hobbies: ["🏊Ocean swimming", "✈️Aviation", "💪Calisthenics"]
