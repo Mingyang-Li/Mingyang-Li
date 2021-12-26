@@ -9,4 +9,6 @@
 - 🤔 Interests: ["Blockchain", "Fintech", "Salesforce", "Data Visualisation"]
 - 📫 Hobbies: ["🏊Ocean swimming", "✈️Aviation", "💪Calisthenics"]
 
+![image title](https://rushter.com/counter.svg)
+
 [![Mingyang's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mingyang-Li)](https://github.com/ashutosh00710/github-readme-activity-graph)
