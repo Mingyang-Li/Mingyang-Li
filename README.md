@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 Who am I ["I build things"]
+- 🔭 Who am I ["Software engineer who swims a lot"]
 - 🤝 I'm open to: ["Collaborate", "Connect", "Drinking!?"]
 - 🌱 Languages I speak: ["TypeScript", "JavaScript", "Python", "SQL"]
 - ⛳ Stack at work: ["Angular", "RxJS", "Apollo"]
