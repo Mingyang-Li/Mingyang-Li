@@ -3,10 +3,10 @@
 - 🔭 Who am I ["Software engineer who swims a lot"]
 - 🤝 I'm open to: ["Collaborate", "Connect", "Drinking!?"]
 - 🌱 Languages I speak: ["TypeScript", "JavaScript", "Python", "SQL"]
-- ⛳ Stack at work: ["Angular", "RxJS", "Apollo"]
+- ⛳ Tools for current job: ["Angular", "RxJS", "Apollo"]
 - 🔨 Stack: ["React", "NestJS (node)", "GraphQL", "Prisma ORM", "Postgre"]
 - 📚 Learning: ["Good API design, "Next.js", "TailwindCSS", "DevOps, Security"]
-- 🤔 Interests: ["Blockchain", "Fintech", "Salesforce", "Data Visualisation"]
+- 🤔 Interests: ["Fintech", "Data Visualisation"]
 - 📫 Hobbies: ["🏊Ocean swimming", "✈️Aviation", "💪Calisthenics"]
 
 ![image title](https://rushter.com/counter.svg)
