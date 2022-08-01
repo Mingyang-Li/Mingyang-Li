@@ -1,12 +1,18 @@
 ### Hello there 👋
 
-- 🔭 Who am I ["Software engineer who swims a lot"]
-- 🤝 I'm open to: ["Collaborate", "Connect", "Drinking!?"]
-- 🔨 Stack: ["React (ts)", "NestJS (node + ts)", "GraphQL", "Prisma ORM", "Postgre"]
-- 📚 Trying to master: ["API design, "Serverless", "DevOps, Security"]
-- 🤔 Interests: ["Fintech", "Data Visualisation"]
-- 📫 Hobbies: ["🏊Ocean swimming", "✈️Aviation", "💪Calisthenics"]
+### 东北人 @ 新西兰
 
+Wrote my first line of HTML & CSS in July 2019, I've helped a number of startups and medium-sized businesses alike by shipping apps & features to production for tens of thousands of users while completing my degree (Graduating in November 2022) 
+
+#### 🔨 Tools of choice:
+- TypeScript
+- React
+- GraphQL
+- NestJS
+- Prisma ORM
+- PostgreSQL
+- Docker
+- AWS
 
 #### ✅ 工作学习写代码之余，我没事会做一些短视频，以及开展并教授一个为其8周的线上一对一课程，专门帮助 `留学生和移民` 通过 `融入西方英语国家主流社会` 从而让你们 `获得英语国家优质的社会资源` => 大多数华人接触不到的：人脉，圈子，机遇，生活品质
 
