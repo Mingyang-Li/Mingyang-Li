@@ -1,6 +1,9 @@
 ### Hello there 👋
 
 ### 东北人 @ 新西兰
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mingyang-li-nz/)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://www.linkedin.com/in/mingyang-li-nz/)
+
 
 Wrote my first line of HTML & CSS in July 2019, I've helped a number of startups and medium-sized businesses alike by shipping apps & features to production for tens of thousands of users while completing my degree (Graduating in November 2022) 
 
