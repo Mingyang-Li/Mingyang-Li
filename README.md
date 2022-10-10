@@ -25,4 +25,4 @@ Wrote my first line of HTML & CSS in July 2019, I've helped a number of startups
 
 #### Non-coding hobbies: 🌊 Ocean-swimming + 🍣 Making sushi
 
-✅ 工作学习写代码之余，我没事会做一些短视频，以及开展并教授一个[为其8周的线上一对一课程](https://github.com/Mingyang-Li/coaching/blob/main/README.md)，专门帮助留学生和移民通过 融入西方英语国家主流社会 从而让你们获得英语国家优质的社会资源 => 大多数华人接触不到的：人脉, 圈子, 机遇, 生活品质
+✅ 工作学习写代码之余，我没事会做一些短视频，以及开展并教授一个[为其8周的线上一对一课程](https://github.com/Mingyang-Li/coaching/blob/main/README.md)，专门帮助 `留学生和新移民` 通过 提高英语口语, 克服社恐，融入主流社会，找到好工作，从而获得让你们获得英语国家 `优质人脉` + `圈子` + `机遇`
