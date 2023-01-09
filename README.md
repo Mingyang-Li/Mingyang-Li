@@ -26,3 +26,7 @@ Wrote my first line of HTML & CSS in July 2019, still coding.
 #### Non-coding hobbies: 🌊 Ocean-swimming + 🍣 Making sushi
 
 ✅ 工作学习写代码之余，我没事会做一些短视频，录制访谈节目 (邀请国外各个领域的有能力有成就的年轻人)，以及开展并教授一个[为其8周的线上一对一课程](https://github.com/Mingyang-Li/coaching/blob/main/README.md)，专门帮助 `留学生和新移民` 通过 提高英语口语, 克服社恐，融入主流社会，找到好工作，从而获得让你们获得英语国家 `优质人脉` + `圈子` + `机遇`
+
+🎬 B站：俄勒冈大蒜
+📕 小红书: 俄勒冈大蒜
+
