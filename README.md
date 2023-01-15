@@ -2,6 +2,10 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mingyang-li-nz/)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mingyangli)
 
+- 🎬 B站：[俄勒冈大蒜](https://space.bilibili.com/1657824308?spm_id_from=..0.0)
+- 📕 小红书: [俄勒冈大蒜](https://www.xiaohongshu.com/user/profile/631b2acf00000000230265aa?xhsshare=CopyLink&appuid=631b2acf00000000230265aa&apptime=1673817429)
+
+
 Wrote my first line of HTML & CSS in July 2019, still coding. 
 
 ## 🔨 Tools of choice | 技术栈:
@@ -25,8 +29,6 @@ Wrote my first line of HTML & CSS in July 2019, still coding.
 
 #### Non-coding hobbies: 🌊 Ocean-swimming + 🍣 Making sushi
 
-✅ 工作学习写代码之余，我没事会做一些短视频，录制访谈节目 (邀请国外各个领域的有能力有成就的年轻人)，以及开展并教授一个[为其8周的线上一对一课程](https://github.com/Mingyang-Li/coaching/blob/main/README.md)，专门帮助 `留学生和新移民` 通过 提高英语口语, 克服社恐，融入主流社会，找到好工作，从而获得让你们获得英语国家 `优质人脉` + `圈子` + `机遇`
+✅ 工作学习写代码之余，我没事会做一些短视频，录制访谈节目 (邀请国外各个领域的有能力有成就的年轻人)，以及开展并教授一个为其8周的线上一对一课程，专门帮助 `留学生和新移民` 通过 提高英语口语, 克服社恐，融入主流社会，找到好工作，从而获得让你们获得英语国家 `优质人脉` + `圈子` + `机遇`
 
-🎬 B站：俄勒冈大蒜
-📕 小红书: 俄勒冈大蒜
 
