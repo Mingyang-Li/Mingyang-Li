@@ -2,8 +2,8 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mingyang-li-nz/)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mingyangli)
 
-- 🎬 B站：[俄勒冈大蒜](https://space.bilibili.com/1657824308?spm_id_from=..0.0)
-- 📕 小红书: [俄勒冈大蒜](https://www.xiaohongshu.com/user/profile/631b2acf00000000230265aa?xhsshare=CopyLink&appuid=631b2acf00000000230265aa&apptime=1673817429)
+- 🎬 B站：[新西兰斜杠程序员](https://space.bilibili.com/1657824308?spm_id_from=..0.0)
+- 📕 小红书: [新西兰斜杠程序员](https://www.xiaohongshu.com/user/profile/631b2acf00000000230265aa?xhsshare=CopyLink&appuid=631b2acf00000000230265aa&apptime=1673817429)
 
 
 Wrote my first line of HTML & CSS in July 2019, still coding. 
