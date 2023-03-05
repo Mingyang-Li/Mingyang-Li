@@ -1,12 +1,7 @@
-### 东北人 @ 新西兰
+### 东北小伙 @ 新西兰
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mingyang-li-nz/)
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mingyangli)
 
-- 🎬 B站：[新西兰斜杠程序员](https://space.bilibili.com/1657824308?spm_id_from=..0.0)
 - 📕 小红书: [新西兰斜杠程序员](https://www.xiaohongshu.com/user/profile/631b2acf00000000230265aa?xhsshare=CopyLink&appuid=631b2acf00000000230265aa&apptime=1673817429)
-
-
-Wrote my first line of HTML & CSS in July 2019, still coding. 
 
 ## 🔨 Tools of choice | 技术栈:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -29,6 +24,5 @@ Wrote my first line of HTML & CSS in July 2019, still coding.
 
 #### Non-coding hobbies: 🌊 Ocean-swimming + 🍣 Making sushi
 
-✅ 工作学习写代码之余，我没事会做一些短视频，录制访谈节目 (邀请国外各个领域的有能力有成就的年轻人)，以及开展并教授一个为其8周的线上一对一课程，专门帮助 `留学生和新移民` 通过 提高英语口语, 克服社恐，融入主流社会，找到好工作，从而获得让你们获得英语国家 `优质人脉` + `圈子` + `机遇`
-
-
+✅ 工作之余，我还经常在 [小红书](https://www.xiaohongshu.com/user/profile/631b2acf00000000230265aa?xhsshare=CopyLink&appuid=631b2acf00000000230265aa&apptime=1673817429)
+上发布一些干货，专门帮助 `理工科 (CS, IT, SWE, DS, IS, BA, etc) 留学生`，想通过转码技术移民的留学生，以及 `想出国润的程序员` 提高 **技术类英文面试沟通技巧** (用流利的英文讲故事，画大饼，以及瞎掰乎的能力)，有这方面需求的小伙伴可以点击链接关注一下
