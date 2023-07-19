@@ -5,6 +5,14 @@ I code a lot more using my work GitHub account these days
 - 9-5: Full-stack engineer @ Working on Verifiable Credentials
 - Misc: Content Creator @ 📕 小红书 ([新西兰斜杠程序员](https://www.xiaohongshu.com/user/profile/631b2acf00000000230265aa?xhsshare=CopyLink&appuid=631b2acf00000000230265aa&apptime=1673817429))
 
+### 🏗️ Notable open-source contributions:
+| Type | What it does | Where to find it |
+| :---   | :--- | :--- |
+| Web-app | Issuing & verifying decentralised verifiable credentials directly from UI | [Source code](https://github.com/mattrglobal/sample-apps/tree/ml/e2e-issue-verify/e2e-issue-verify/)   |
+| Web-app | Demostrating data flow during API-integration for issuance of verifiable credentials | [Source code](https://github.com/mattrglobal/sample-apps/tree/didcomm/direct-vc-issuance/vc-issuance-ui) |
+| Web-app | Demonstrate integrating OIDC identity providers against APIs for secure issuance of verifiable credentials in compliance with [OID4VCI protocals](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html) | [Source code](https://github.com/mattrglobal/sample-apps/tree/master/credential-provider) |
+| Sample-code | Provide guidance for developers experimenting issuance of verifiable credentials via [DIDCOMM protocals](https://identity.foundation/didcomm-messaging/spec/) | [Source code](https://github.com/mattrglobal/sample-apps/blob/master/implementation-patterns/direct-issuance.ts) |
+
 ## 🔨 Tools of choice | 技术栈:
 #### Backend:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
