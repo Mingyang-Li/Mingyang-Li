@@ -1,9 +1,7 @@
 ### Hello
 
-I code a lot more using my work GitHub account these days
-
-- 9-5: Full-stack engineer @ Working on Verifiable Credentials
-- Misc: Content Creator @ 📕 小红书 ([新西兰斜杠程序员](https://www.xiaohongshu.com/user/profile/631b2acf00000000230265aa?xhsshare=CopyLink&appuid=631b2acf00000000230265aa&apptime=1673817429))
+- My 9-5: Full-stack engineer @ A consulting firm
+- 5-9: Content Creator @ 📕 Red Book 小红书 ([Instagram for Mainland China](https://www.xiaohongshu.com/user/profile/631b2acf00000000230265aa?xhsshare=CopyLink&appuid=631b2acf00000000230265aa&apptime=1673817429))
 
 ### 🏗️ Notable open-source contributions:
 | Type | What it does | Where to find it |
