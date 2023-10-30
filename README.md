@@ -2,12 +2,13 @@
 
 - 9-5: Full-stack engineer @ A consulting firm
 - 5-9: Content Creator @ 📕 Red Book 小红书 ([Instagram for Mainland China](https://www.xiaohongshu.com/user/profile/631b2acf00000000230265aa?xhsshare=CopyLink&appuid=631b2acf00000000230265aa&apptime=1673817429))
+- Hobbies: 🏊 Ocean / Lake swimming, hiking, etc
 
 ### 🏗️ Notable open-source contributions:
 | Type | What it does | Where to find it | Tech I used |
 | :---   | :--- | :--- | :--- |
-| Web-app | Issuing & verifying decentralised verifiable credentials directly from UI | [Source code](https://github.com/mattrglobal/sample-apps/tree/ml/e2e-issue-verify/e2e-issue-verify/)   | tRPC, Typescript, Zod, Next.js, Node.js, Prisma |
-| Web-app | Demostrating data flow during API-integration for issuance of verifiable credentials | [Source code](https://github.com/mattrglobal/sample-apps/tree/didcomm/direct-vc-issuance/vc-issuance-ui) | tRPC, Typescript, Zod, Next.js, Node.js, Redux, Prisma |
+| Web-app | Issuing & verifying decentralised verifiable credentials directly from UI | [Source code](https://github.com/mattrglobal/sample-apps/tree/ml/e2e-issue-verify/e2e-issue-verify/)   | tRPC, Typescript, Zod, Node.js, Prisma, Next.js |
+| Web-app | Demostrating data flow during API-integration for issuance of verifiable credentials | [Source code](https://github.com/mattrglobal/sample-apps/tree/didcomm/direct-vc-issuance/vc-issuance-ui) | tRPC, Typescript, Zod, Node.js, Prisma, Next.js, Redux |
 | Web-app | Demonstrate integrating OIDC identity providers against APIs for secure issuance of verifiable credentials in compliance with [OID4VCI protocals](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html) | [Source code](https://github.com/mattrglobal/sample-apps/tree/master/credential-provider) | Typescript, NestJS, Zod |
 | Sample-code | Provide guidance for developers experimenting issuance of verifiable credentials via [DIDCOMM protocals](https://identity.foundation/didcomm-messaging/spec/) | [Source code](https://github.com/mattrglobal/sample-apps/blob/master/implementation-patterns/direct-issuance.ts) | Typescript, Node.js |
 
