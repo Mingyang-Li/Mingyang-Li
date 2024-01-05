@@ -3,6 +3,7 @@
 - 9-5: Full-stack engineer @ A consulting firm
 - 5-9: Content Creator @ 📕 Red Book 小红书 ([Instagram for Mainland China](https://www.xiaohongshu.com/user/profile/631b2acf00000000230265aa?xhsshare=CopyLink&appuid=631b2acf00000000230265aa&apptime=1673817429))
 - Hobbies: 🏊 Ocean / Lake swimming, hiking, etc
+- Sometimes I write blogs @ [Medium](https://mingyang-li.medium.com/)
 
 ### 🏗️ Notable open-source contributions:
 | Type | What it does | Where to find it | Tech I used |
