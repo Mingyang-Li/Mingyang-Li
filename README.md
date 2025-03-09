@@ -1,8 +1,8 @@
 Hi.
 
-I'm a backend-leaning software engineer with a knack for building GraphQL APIs & optimizing developer experience. Currently, I work for a consulting firm.
+I'm a backend-leaning software engineer with a knack for building GraphQL APIs & optimizing developer experience.
 
-Aside from writing code, you'll find me doing lots of 7am swim trainings ☀️ 🏊 🌊 (3.8km, 5km, 10km swims), plus some 🥊 boxing & ⛷️ 🏔️ skiing.
+Aside from writing code, you'll find me training for ocean swims (3.8km, 5km, 10km swims), boxing & skiing.
 
 I also blog about technical topics on [Medium](https://mingyang-li.medium.com/).
 
