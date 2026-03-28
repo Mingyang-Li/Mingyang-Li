@@ -1,6 +1,8 @@
 Hi.
 
-I'm a backend-leaning software engineer with a knack for building GraphQL APIs & optimizing developer experience.
+I'm a backend-leaning software engineer with a knack for building APIs & optimizing developer experience.
+
+My current focus is learning about event-driven architecture (EDA).
 
 Aside from writing code, I'm mostly in the outdoors, either ocean-swimming, or skiing.
 
